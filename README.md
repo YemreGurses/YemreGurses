@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer
 -----------------
 
-I am a software developer specializing in full-stack development and data management. With a diverse skill set encompassing various programming languages and technologies, I always chase the best in providing powerful solutions. My expertise includes Django, Go, Scala, React.js, Angular, Apache NiFi, Postgres, and MongoDB. Currently, I am actively engaged as a full-stack developer, utilizing Angular and Scala to build innovative and scalable applications.
+I am a software developer specializing in full-stack development and data management. With a diverse skill set encompassing various programming languages and technologies, I always chase the best in providing powerful solutions. My expertise includes Angular, Scala, Apache NiFi, Java, Django, Go, React.js, Postgres, and MongoDB. Currently, I am actively engaged as a full-stack developer, utilizing Angular and Scala to build innovative and scalable applications.
 
 * 🌍  I'm based in Ankara/Turkey
 * ✉️  You can contact me at [gursesyunus@hotmail.com](mailto:gursesyunus@hotmail.com)
